@@ -75,8 +75,8 @@ And pls follow us on [instagram](https://instagram.com/alien_ghost_technology?ut
 
 
 ## image 1
- ![  ](https://github.com/Hckers-Tech/Designs-Fonts-color/blob/main/Screenshot_2021-04-19-20-12-17-83.png)
+ ![  ](https://github.com/Hckers-Tech/banner-fonts-background/blob/main/Screenshot_2021-04-19-20-12-17-83.png)
 
 
 ### image 2
-![](https://github.com/Hckers-Tech/Designs-Fonts-color/blob/main/Screenshot_2021-05-28-08-30-53-90.png)
+![](https://github.com/Hckers-Tech/banner-fonts-background/blob/main/Screenshot_2021-05-28-08-30-53-90.png)
