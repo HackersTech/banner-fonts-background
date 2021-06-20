@@ -22,9 +22,9 @@ Banner Nd fonts nd backgrounds are there so check it out
 >apt-get install figlet lolcat
 ---
 
-- >git clone https://github.com/HackersTech/banner-Fonts-color
+- >git clone https://github.com/HackersTech/banner-Fonts-background
  
-- >cd Designs-Fonts-color
+- >cd banner-Fonts-background
 
 for termux (mobile emulator) 
 
