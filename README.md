@@ -25,12 +25,13 @@ pkg install figlet
 ---
 
 - git clone https://github.com/HackersTech/banner-fonts-background
- 
-- cd banner-Fonts-background
-
+ ``` 
+cd banner-Fonts-background
+```
 for termux (mobile emulator) 
-
-- bash set.sh
+```
+bash set.sh
+```
 
 ## - For Linux (.bashrc shells) 
 
