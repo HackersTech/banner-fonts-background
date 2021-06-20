@@ -22,7 +22,7 @@ Banner Nd fonts nd backgrounds are there so check it out
 >apt-get install figlet lolcat
 ---
 
-- >git clone https://github.com/HackersTech/Designs-Fonts-color
+- >git clone https://github.com/HackersTech/banner-Fonts-color
  
 - >cd Designs-Fonts-color
 
