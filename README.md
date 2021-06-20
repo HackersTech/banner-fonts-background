@@ -27,7 +27,7 @@ pkg install figlet
 
 - git clone https://github.com/HackersTech/banner-fonts-background
  ``` 
-cd banner-Fonts-background
+cd banner-fonts-background
 ```
 for termux (mobile emulator) 
 ```
