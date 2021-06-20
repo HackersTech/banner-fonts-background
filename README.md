@@ -8,13 +8,15 @@ Banner Nd fonts nd backgrounds are there so check it out
 
 
 **Termux requirements**
+```
+pkg install git
 
->pkg install git
+pkg install ruby
 
->pkg install ruby
+gem install lolcat
 
->gem install lolcat
-
+pkg install figlet 
+```
 ## linux requirements --
 
 >apt-get install ruby
